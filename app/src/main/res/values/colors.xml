@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#12B600</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#5565FF</color>
+    <color name="blue_dark">#151D27</color>
+    <color name="darkgreen">#40513B</color>
+    <color name="greenn">#9DC08B</color>
+    <color name="gray">#4D4D4D</color>
+    <color name="EDF1D6">#FEFAE0</color>
+
+    //ColorHunt
+    <color name="ch2">#900C3F</color>
+    <color name="ch3">#C70039</color>
+    <color name="ch4">#F94C10</color>
+    <color name="ch1">#3D0C11</color>
+</resources>
